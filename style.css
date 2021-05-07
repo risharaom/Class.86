@@ -1,0 +1,18 @@
+.body_background 
+{
+    background-image:url(wooden.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+    border-width:10px;
+    border-style:ridge;
+    background-color: lavender;   
+}
+button{
+ background-color: aquamarine;   
+}
+#display_screen_width, #display_coords
+{
+    font-size: 27px;
+    color:black;
